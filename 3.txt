@@ -1,0 +1,2 @@
+var name= "¶­º£·å"
+console.log(name)
